@@ -1,0 +1,42 @@
+/* button {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 900px;
+} */
+/* .p1{
+
+    margin-left: 850px;
+ } */
+ .parallax-container {
+  height: "your height here";
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+/* i{
+  color: rgb(243, 1, 1);
+  font-size: 3rem;
+} */
+h5{
+    color: #424242;
+}
+h6{
+    color: #004d40;
+}
+h3{
+   color: #212121;
+}
+#team{
+  color: rgb(138, 89, 230);
+}
+#img{
+  margin-left: 200px;
+  margin-top: 3px;
+}

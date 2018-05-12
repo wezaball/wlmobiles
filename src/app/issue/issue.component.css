@@ -1,0 +1,51 @@
+#img{
+  margin-left: 200px;
+  margin-top: 3px;
+}
+
+ul{
+  display:inline-block;
+}
+#myInput {
+
+  border-left: 50px;
+  height: 20px;
+  width: 80%;
+  font-size: 16px;
+  padding:15px;
+  border: 3px solid #ddd;
+  margin-left: 30px;
+}
+img{
+  margin-left: 50px;
+}
+#a{
+  margin-left: 170px;
+}
+i{
+  color: darkorange;
+}
+#icon{
+  color: deepskyblue;
+}
+#clearfix{
+  margin-left: 100px;
+}
+
+
+
+
+/*wlmobiles
+img{
+  margin-top: 7px;
+}
+
+#reply{
+  margin-left: 40px;
+}
+#home{
+  margin-left: 40px;
+}
+#filter_none{
+  margin-left: 50px;
+} */

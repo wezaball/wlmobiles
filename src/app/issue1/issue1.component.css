@@ -1,0 +1,49 @@
+#img{
+  margin-left: 200px;
+  margin-top: 3px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+button {
+  background-color: rgb(3, 130, 248);
+  color: aliceblue;
+  padding: 8px 40px;
+  margin-left: 15px;
+}
+#icon{
+  margin-left: 600px;
+  color: cyan;
+}
+i{
+  color:  rgb(241, 67, 55);
+}
+
+
+
+
+/* wlmobiles
+ img{
+  margin-top: 7px;
+}
+#reply{
+  margin-left: 60px;
+}
+#home{
+  margin-left: 70px;
+}
+#filter_none{
+  margin-left: 80px;
+}
+h5{
+  color:black;
+} */
